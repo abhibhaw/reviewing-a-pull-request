@@ -1,4 +1,4 @@
-# Welcome to GitHub Games
+# Welcome to GitHub Games!!
 
 A project based learning activity for people who are getting started with Git and GitHub.
 You can play the game at: https://abhibhaw.github.io/github-games/
